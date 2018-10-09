@@ -11,6 +11,7 @@ public class AssociatesController {
 	@RequestMapping(value="/tasklist.html")
 	public String getList()
 	{
+		System.out.println("dumyyyyyyyy lineeee");
 		return "tasklist";
 	}
 	
