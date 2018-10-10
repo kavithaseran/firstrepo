@@ -1,5 +1,4 @@
 Hellooo
-<<<<<<< HEAD
 3rd line
 2nd line
 
