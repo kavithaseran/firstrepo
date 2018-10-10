@@ -1,4 +1,6 @@
 /*Sample file change*/
+/*some change*/
+/*merging*/
 class sample{
     public sample()
     {
